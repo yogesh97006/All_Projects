@@ -1,2 +1,2 @@
 # Practice_Set
-In This Repository you will Find only Pratice Files of all Different Types of Languages 😄 . . . . 
+You will find all my projects here, some of which use libraries and frameworks, and some which use only pure language code. 
